@@ -31,11 +31,7 @@
 #	Dec 27, 2017	Ranjan Sarkar		Updated version
 
 #	Jan 29, 2017	Ranjan Sarkar		Jan 29 changes version - merged
-<<<<<<< HEAD
 #	Oct 12, 2019	Ranjan Sarkar		Testing Git Commit from SourceTree from vscode 3
-=======
-#	Oct 12, 2019	Ranjan Sarkar		Testing Git Commit from browser
->>>>>>> 289cfa2bf004f94c7427091c464ac51e7e1795dd
 ####################################################################################################
 
 
